@@ -1,6 +1,4 @@
 # Slay the Spire 2 Damage Meter
-Mod of Slay the Spire 2 that keeps track of players damage dealt per turn, average damage per turn, total damage over the run, and damage taken over the run. Intended to use for multiplayer :). 
-
 <details>
 <summary>Table of Contents</summary>
   
@@ -19,7 +17,7 @@ Mod of Slay the Spire 2 that keeps track of players damage dealt per turn, avera
 </details>
 
 ## Summary
-*Missed garbage day? Never forget your trash schedule again with https://trashschedulenj.com! This project is for residents of Union County, New Jersey to check their trash schedule for the week. Elizabeth and Kenilworth are covered so far, more towns are being added.*
+*Mod of Slay the Spire 2 that keeps track of players damage dealt per turn, average damage per turn, total damage over the run, and damage taken over the run. Intended to use for multiplayer :).*
 
 ## Features
 <!--List the standout features of your project and what makes it unique.-->
