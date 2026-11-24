@@ -21,15 +21,10 @@
 
 ## Features
 <!--List the standout features of your project and what makes it unique.-->
-- **Garbage Check**: Start typing your address and pick it from the Google Maps list, or type it in yourself, to check your trash schedule.
-- **More than one town**: Each town has its own pickup types, days and holiday rules.
-- **Holiday Check**: System accounts for holidays and garbage pickup date changes due to holidays.
-- **Reset Table**: Reset the entire table to the initial state using the reset button.
+- **Feature**: Description.
 
 ## Visuals
 <!--*Insert images or gifs showing your project in action. Consider before/after shots, workflows, or demos.*-->
-<img width="1440" height="779" alt="Screenshot 2026-11-21 at 8 50 53 AM" src="https://github.com/user-attachments/assets/7c2e0dd8-aaa8-4038-a34b-aa1a948fe373" />
-<img width="1096" height="612" alt="traaaash" src="https://github.com/user-attachments/assets/2d44d0b0-54e4-42f0-a29c-56a12c24d355" />
 
 
 ## Technologies
@@ -40,10 +35,7 @@
 
 ## What I Learned
 <!-- Highlight specific skills or concepts you learned or improved upon while working on this project. This section should directly address potential employer interests. -->
-- **Flask**: Connected our frontend to our backend using a web framework and Python.
-- **Database Connectivity**: Setting up and connecting a database that allows for data retrieval from the frontend.
-- **Server Deployment and Configuration**: Setting up a Linux cloud server using Digital Ocean to serve web contents to clients.
-- **Assigning a Domain Name**: Using CloudFlare to claim and assign a domain name to a specified Internet Protocol Address.
+- **Concept 1**: Description.
 
 ## Setup and Installation
 <!--*Provide a clear, step-by-step guide to set up the project locally.*-->
@@ -117,17 +109,4 @@ Our system uses Flask on the backend. The easiest way to help is to add your tow
 
 ## Acknowledgments
 <!--*Credits to individuals or resources that helped you during the project.*-->
-- elizabethnj.org : https://www.elizabethnj.org/288/Garbage-and-Recycling-Calendar
-- Borough of Kenilworth, 2026 Information Guide DPW : https://kenilworthborough.com/188/Public-Works
-- Aberdeen Township, 2026 Community Calendar (Trash & Recycling Pick-Up Schedule) : https://aberdeennj.org/271/Trash-Recycling
-- Borough of Roselle, 2026/2027 Sanitation/Recycling Schedule (DPW) : https://www.boroughofroselle.com/departments/public_works/index.php
-- Borough of Roselle Park, 2026 Curbside Collection Calendar (DPW) : https://www.rosellepark.gov/207/Recycling-Bulk-Waste-Calendar
-- Township of Cranford, 2026 Curbside Recycling Calendar and Zones (DPW, Giordano) : https://www.cranfordnj.org/2413/Curbside-Recycling
-- Town of Westfield, 2026 Curbside Recycling Schedule and Recycling Collection Zones map : https://www.westfieldnj.gov/189/Recycling-Schedule
-- Township of Clark, 2026 Recycling Schedule, Bulky Pickup and the township's zone and ward map : https://www.ourclark.com/175/Recycling-Schedule
-- City of Rahway, 2026 Residential Garbage & Recycling Program (DPW mailer and section map) : https://www.rahwaynj.gov/DocumentCenter/View/3454/COR_DPW_2026_RecycleSchedule_V2-DIGITAL
-- Borough of Garwood, 2026 Schedule for Department of Public Works & Municipal Services : https://garwood.org/garbage
-- Township of Winfield (Recycling page, Giordano's recycling schedule) and Winfield Mutual Housing Corporation (Services) : https://winfield-nj.org/recycling.html , https://www.winfieldnj.org/services/
-- Union County Board of Elections, "Find your Ward and District" street list : https://ucnj.org/boe/where-do-i-vote/
-- US Census Bureau, TIGER/Line address ranges and town boundaries : https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html
----
+- The Architect and the Slay the Spire 2 Team. 
