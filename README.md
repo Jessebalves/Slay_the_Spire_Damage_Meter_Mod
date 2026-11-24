@@ -21,7 +21,7 @@
 
 ## Features
 <!--List the standout features of your project and what makes it unique.-->
-- **Feature**: Description.
+- **Damage Dealt per Combat Tracked**: Able to see damage amount dealt by the player/players for .
 
 ## Visuals
 <!--*Insert images or gifs showing your project in action. Consider before/after shots, workflows, or demos.*-->
